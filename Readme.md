@@ -1,7 +1,7 @@
 # SE-Assignment01
 
 ## Video Link
-Video 详见：此文件夹下的.mp4文件
+Video click here https://www.bilibili.com/video/BV1wRoQBoEuS/
 
 ## Report
 See [report.md](./report.md)
